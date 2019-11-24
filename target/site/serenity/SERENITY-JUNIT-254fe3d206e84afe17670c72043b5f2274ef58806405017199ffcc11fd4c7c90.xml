@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="2" name="com.test.rest.api.SerenityTest_SkyScanner" skipped="0" tests="2" time="966.21" timestamp="2019-11-23 11:54:33"><testcase classname="com.test.rest.api.SerenityTest_SkyScanner" name="Verify that user can poll session paramterized"><failure message="1 expectation failed.&#10;Expected status code &lt;200&gt; but was &lt;404&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;200&gt; but was &lt;404&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;200&gt; but was &lt;404&gt;.
+
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:656)
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:125)
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:133)
+io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:119)
+steps.SkyScannerSteps.searchIsExecutedSuccesfully(SkyScannerSteps.java:26)
+com.test.rest.api.SerenityTest_SkyScanner.verifyThatUserCanPollSession_paramterized(SerenityTest_SkyScanner.java:61)
+</system-err></testcase></testsuite>

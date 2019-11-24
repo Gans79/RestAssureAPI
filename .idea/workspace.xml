@@ -1,0 +1,1086 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ac68417-4d3e-4d90-a80d-69bf3525f06e" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>serenity.maven.version</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/com/test/rest/api/FirstTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/test/rest/api/FirstTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Business/CallHandler.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steps/GetCurrentWeatherSteps.java" />
+        <option value="$PROJECT_DIR$/pom1.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/test/rest/api/SerenityTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/test/rest/api/SerenityTest_lat_long.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Business/CurrentWeather.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Business/DefaultKeys.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/test/rest/api/SerenityTest_SkyScanner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steps/SkyScannerSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Business/SkyScannerSession.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Sample Serenity BDD project using JUnit" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="709" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="steps" />
+      <recent name="com.test.rest.api" />
+      <recent name="Business" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.SerenityTest_SkyScanner">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SerenityTest_SkyScanner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="serenity-rest-assured-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.rest.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.rest.api" />
+      <option name="MAIN_CLASS_NAME" value="com.test.rest.api.SerenityTest_SkyScanner" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SerenityTest_lat_long (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="serenity-rest-assured-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.rest.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.rest.api" />
+      <option name="MAIN_CLASS_NAME" value="com.test.rest.api.SerenityTest_lat_long" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SerenityTest_lat_long.testData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="serenity-rest-assured-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.rest.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.rest.api" />
+      <option name="MAIN_CLASS_NAME" value="com.test.rest.api.SerenityTest_lat_long" />
+      <option name="METHOD_NAME" value="testData" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SerenityTest_lat_long.verifyThatUserCanQueryCurrentWeatherWithLocation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.rest.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.rest.api" />
+      <option name="MAIN_CLASS_NAME" value="com.test.rest.api.SerenityTest_lat_long" />
+      <option name="METHOD_NAME" value="verifyThatUserCanQueryCurrentWeatherWithLocation" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SerenityTest_lat_long.verifyThatUserCanQueryCurrentWeatherWithLocation_paramterized" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="serenity-rest-assured-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.rest.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.rest.api" />
+      <option name="MAIN_CLASS_NAME" value="com.test.rest.api.SerenityTest_lat_long" />
+      <option name="METHOD_NAME" value="verifyThatUserCanQueryCurrentWeatherWithLocation_paramterized" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="[0]" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="test_project" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="test_project" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="serenity aggregate" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="serenity:aggregate" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="post-integration-test" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SerenityTest_SkyScanner" />
+      <item itemvalue="JUnit.SerenityTest_lat_long (1)" />
+      <item itemvalue="JUnit.SerenityTest_lat_long.testData" />
+      <item itemvalue="JUnit.SerenityTest_lat_long.verifyThatUserCanQueryCurrentWeatherWithLocation" />
+      <item itemvalue="JUnit.SerenityTest_lat_long.verifyThatUserCanQueryCurrentWeatherWithLocation_paramterized" />
+      <item itemvalue="Maven.serenity aggregate" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SerenityTest_SkyScanner" />
+        <item itemvalue="JUnit.SerenityTest_lat_long (1)" />
+        <item itemvalue="JUnit.SerenityTest_lat_long.verifyThatUserCanQueryCurrentWeatherWithLocation_paramterized" />
+        <item itemvalue="JUnit.SerenityTest_lat_long.testData" />
+        <item itemvalue="JUnit.SerenityTest_lat_long.verifyThatUserCanQueryCurrentWeatherWithLocation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ac68417-4d3e-4d90-a80d-69bf3525f06e" name="Default" comment="" />
+      <created>1566629556047</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566629556047</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SerenityTest_lat_long_verifyThatUserCanQueryCurrentWeatherWithLocation_paramterized - 2019.11.23 at 15h 49m 42s.xml">
+      <configuration name="SerenityTest_lat_long.verifyThatUserCanQueryCurrentWeatherWithLocation_paramterized" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SerenityTest_lat_long_(1) - 2019.11.23 at 15h 50m 03s.xml">
+      <configuration name="SerenityTest_lat_long (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SerenityTest_lat_long_(1) - 2019.11.23 at 15h 51m 42s.xml">
+      <configuration name="SerenityTest_lat_long (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SerenityTest_SkyScanner - 2019.11.23 at 23h 31m 53s.xml">
+      <configuration name="SerenityTest_SkyScanner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SerenityTest_SkyScanner - 2019.11.23 at 23h 36m 24s.xml">
+      <configuration name="SerenityTest_SkyScanner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SerenityTest_SkyScanner - 2019.11.23 at 23h 54m 38s.xml">
+      <configuration name="SerenityTest_SkyScanner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SerenityTest_lat_long_(1) - 2019.11.23 at 23h 59m 27s.xml">
+      <configuration name="SerenityTest_lat_long (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SerenityTest_SkyScanner - 2019.11.24 at 14h 42m 12s.xml">
+      <configuration name="SerenityTest_SkyScanner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SerenityTest_SkyScanner - 2019.11.24 at 14h 48m 41s.xml">
+      <configuration name="SerenityTest_SkyScanner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SerenityTest_SkyScanner - 2019.11.24 at 15h 05m 27s.xml">
+      <configuration name="SerenityTest_SkyScanner" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27263045" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24698795" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5228916" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.28915662" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32771084" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.1098546" />
+      <window_info anchor="right" id="Maven" order="8" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steps/GetCurrentWeatherSteps.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Business/CurrentWeather.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Business/CurrentWeather.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Business/CurrentWeather.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/test/rest/api/SerenityTest.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/test/rest/api/SerenityTest.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/test/rest/api/SerenityTest.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/test/rest/api/SerenityTest.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/test/rest/api/SerenityTest.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/test/rest/api/SerenityTest.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/test/rest/api/SerenityTest.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/test/rest/api/SerenityTest.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/test/rest/api/SerenityTest.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steps/SkyScannerSteps.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/test/rest/api/SerenityTest_SkyScanner.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steps/SkyScannerSteps.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Business/CurrentWeather.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Business/SkyScannerSession.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/test/java/Business/CallHandler.java</url>
+          <line>4</line>
+          <properties field="url" class="Business.CallHandler" />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/test/java/Business/CallHandler.java</url>
+          <line>5</line>
+          <properties field="api_key" class="Business.CallHandler" />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/test/java/com/test/rest/api/SerenityTest.java</url>
+          <line>14</line>
+          <properties field="getCurrentWeatherSteps" class="com.test.rest.api.SerenityTest" />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/test/java/com/test/rest/api/SerenityTest_lat_long.java</url>
+          <line>35</line>
+          <properties field="getCurrentWeatherSteps" class="com.test.rest.api.SerenityTest_lat_long" />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/test/java/com/test/rest/api/SerenityTest_SkyScanner.java</url>
+          <line>52</line>
+          <properties field="skyScannerSteps" class="com.test.rest.api.SerenityTest_SkyScanner" />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/steps/GetCurrentWeatherSteps.java</url>
+          <line>28</line>
+          <properties class="steps.GetCurrentWeatherSteps" method="searchIsExecutedSuccesfully" />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/steps/GetCurrentWeatherSteps.java</url>
+          <line>33</line>
+          <properties class="steps.GetCurrentWeatherSteps" />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/steps/GetCurrentWeatherSteps.java</url>
+          <line>38</line>
+          <properties class="steps.GetCurrentWeatherSteps" />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/steps/SkyScannerSteps.java</url>
+          <line>35</line>
+          <properties class="steps.SkyScannerSteps" method="searchIsExecutedSuccesfully" />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="Arrays.asList(new Object[][]{&#10;                    {&quot;MEL-sky&quot;, &quot;SYD-sky&quot;, &quot;2019-12-01&quot;, &quot;2019-12-20&quot;, &quot;business&quot;, &quot;1&quot;},&#10;                    {&quot;MEL-sky&quot;, &quot;SYD-sky&quot;, &quot;2019-12-02&quot;, &quot;2019-12-21&quot;, &quot;business&quot;, &quot;2&quot;},&#10;&#10;&#10;            })" />
+        <watch expression="new Object[][]{&#10;                    {&quot;MEL-sky&quot;, &quot;SYD-sky&quot;, &quot;2019-12-01&quot;, &quot;2019-12-20&quot;, &quot;business&quot;, &quot;1&quot;},&#10;                    {&quot;MEL-sky&quot;, &quot;SYD-sky&quot;, &quot;2019-12-02&quot;, &quot;2019-12-21&quot;, &quot;business&quot;, &quot;2&quot;},&#10;&#10;&#10;            }" language="JAVA" />
+        <watch expression="originplace" />
+        <watch expression="response" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>new Object[][]{
+                    {&quot;MEL-sky&quot;, &quot;SYD-sky&quot;, &quot;2019-12-01&quot;, &quot;2019-12-20&quot;, &quot;business&quot;, &quot;1&quot;},
+                    {&quot;MEL-sky&quot;, &quot;SYD-sky&quot;, &quot;2019-12-02&quot;, &quot;2019-12-21&quot;, &quot;business&quot;, &quot;2&quot;},
+
+
+            }</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="setValue">
+      <expression>
+        <expression-string>&quot;({ \t\&quot;inboundDate\&quot;: \&quot;2019-09-10\&quot;, \t\&quot;cabinClass\&quot;: \&quot;business\&quot;, \t\&quot;children\&quot;: \&quot;0\&quot;, \t\&quot;infants\&quot;: \&quot;0\&quot;, \t\&quot;country\&quot;: \&quot;US\&quot;, \t\&quot;currency\&quot;: \&quot;USD\&quot;, \t\&quot;locale\&quot;: \&quot;en-US\&quot;, \t\&quot;originPlace\&quot;: \&quot;SFO-sky\&quot;, \t\&quot;destinationPlace\&quot;: \&quot;LHR-sky\&quot;, \t\&quot;outboundDate\&quot;: \&quot;2019-09-01\&quot;, \t\&quot;adults\&quot;: \&quot;1\&quot; })&quot;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>({ 	&quot;inboundDate&quot;: &quot;2019-09-10&quot;, 	&quot;cabinClass&quot;: &quot;business&quot;, 	&quot;children&quot;: &quot;0&quot;, 	&quot;infants&quot;: &quot;0&quot;, 	&quot;country&quot;: &quot;US&quot;, 	&quot;currency&quot;: &quot;USD&quot;, 	&quot;locale&quot;: &quot;en-US&quot;, 	&quot;originPlace&quot;: &quot;SFO-sky&quot;, 	&quot;destinationPlace&quot;: &quot;LHR-sky&quot;, 	&quot;outboundDate&quot;: &quot;2019-09-01&quot;, 	&quot;adults&quot;: &quot;1&quot; })</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/target/site/serenity/browserconfig.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/site/serenity/serenity-resources">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/rest/api/FirstTest.java" />
+    <entry file="file://$PROJECT_DIR$/pom1.xml" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="103" column="56" selection-start-line="103" selection-start-column="56" selection-end-line="103" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serenity-rest-assured-automation.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/serenity-bdd/serenity-junit/2.0.69/serenity-junit-2.0.69-sources.jar!/net/serenitybdd/junit/runners/TestClassRunnerForParameters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/serenity-bdd/serenity-junit/2.0.69/serenity-junit-2.0.69-sources.jar!/net/serenitybdd/junit/runners/QualifiedTestsRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/cglib/cglib/3.2.5/cglib-3.2.5-sources.jar!/net/sf/cglib/core/ReflectUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="290" selection-start-line="290" selection-end-line="290" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Business/CallHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/rest/api/SerenityTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/rest/api/SerenityTest_lat_long.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="40" column="42" selection-start-line="40" selection-end-line="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Business/CurrentWeather.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="556" selection-start-line="556" selection-end-line="556" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy/1.9.12/byte-buddy-1.9.12-sources.jar!/net/bytebuddy/description/type/TypeDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="204" selection-start-line="204" selection-end-line="204" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy/1.9.12/byte-buddy-1.9.12-sources.jar!/net/bytebuddy/implementation/bytecode/assign/primitive/PrimitiveBoxingDelegate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="147" selection-start-line="147" selection-end-line="147" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy/1.9.12/byte-buddy-1.9.12-sources.jar!/net/bytebuddy/implementation/bind/annotation/Argument.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="174" selection-start-line="174" selection-end-line="174" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy/1.9.12/byte-buddy-1.9.12-sources.jar!/net/bytebuddy/description/type/TypeDescription.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="8256" selection-start-line="8256" selection-end-line="8256" />
+          <folding>
+            <element signature="e#166523#166524#0" expanded="true" />
+            <element signature="e#166608#166609#0" expanded="true" />
+            <element signature="e#306802#306803#0" expanded="true" />
+            <element signature="e#306868#306869#0" expanded="true" />
+            <element signature="e#307165#307166#0" expanded="true" />
+            <element signature="e#307231#307232#0" expanded="true" />
+            <element signature="e#318337#318338#0" expanded="true" />
+            <element signature="e#318395#318396#0" expanded="true" />
+            <element signature="e#337702#337703#0" expanded="true" />
+            <element signature="e#337776#337777#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy/1.9.12/byte-buddy-1.9.12-sources.jar!/net/bytebuddy/implementation/bytecode/assign/reference/ReferenceTypeAwareAssigner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy/1.9.12/byte-buddy-1.9.12-sources.jar!/net/bytebuddy/implementation/bytecode/assign/primitive/PrimitiveTypeAwareAssigner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy/1.9.12/byte-buddy-1.9.12-sources.jar!/net/bytebuddy/implementation/bytecode/assign/primitive/VoidAwareAssigner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy/1.9.12/byte-buddy-1.9.12-sources.jar!/net/bytebuddy/implementation/bind/annotation/TargetMethodAnnotationDrivenBinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="131" selection-start-line="131" selection-end-line="131" />
+          <folding>
+            <element signature="e#29766#29776#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy/1.9.12/byte-buddy-1.9.12-sources.jar!/net/bytebuddy/implementation/bind/MethodDelegationBinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="1089" selection-start-line="1089" selection-end-line="1089" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy/1.9.12/byte-buddy-1.9.12-sources.jar!/net/bytebuddy/implementation/MethodDelegation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="1281" selection-start-line="1281" selection-end-line="1281" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy/1.9.12/byte-buddy-1.9.12-sources.jar!/net/bytebuddy/dynamic/scaffold/TypeWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="1929" selection-start-line="1929" selection-end-line="1929" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy/2.5.5/groovy-2.5.5-sources.jar!/org/codehaus/groovy/reflection/ClassInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="400" column="27" lean-forward="true" selection-start-line="400" selection-start-column="27" selection-end-line="400" selection-end-column="27" />
+          <folding>
+            <element signature="e#16663#16664#0" expanded="true" />
+            <element signature="e#16723#16724#0" expanded="true" />
+            <element signature="e#18027#18028#0" expanded="true" />
+            <element signature="e#18102#18103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="193" selection-start-line="193" selection-end-line="193" />
+          <folding>
+            <element signature="e#6249#6250#0" expanded="true" />
+            <element signature="e#6333#6334#0" expanded="true" />
+            <element signature="e#6365#6366#0" expanded="true" />
+            <element signature="e#18632#18633#0" expanded="true" />
+            <element signature="e#18694#18695#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy/2.5.5/groovy-2.5.5-sources.jar!/org/codehaus/groovy/reflection/stdclasses/CachedSAMClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="168" column="5" lean-forward="true" selection-start-line="168" selection-start-column="5" selection-end-line="168" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="3012" selection-start-line="3012" selection-end-line="3012" />
+          <folding>
+            <element signature="e#112898#112899#0" expanded="true" />
+            <element signature="e#112942#112943#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/cglib/cglib/3.2.5/cglib-3.2.5-sources.jar!/net/sf/cglib/proxy/MethodProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="229" selection-start-line="229" selection-end-line="229" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/serenity-bdd/serenity-core/2.0.69/serenity-core-2.0.69-sources.jar!/net/thucydides/core/steps/StepInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/statements/InvokeMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/serenity-bdd/serenity-junit/2.0.69/serenity-junit-2.0.69-sources.jar!/net/serenitybdd/junit/runners/SerenityStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3645">
+          <caret line="287" selection-start-line="287" selection-end-line="287" />
+          <folding>
+            <element signature="e#2922#2923#0" expanded="true" />
+            <element signature="e#2966#2967#0" expanded="true" />
+            <element signature="e#10310#10449#0" expanded="true" />
+            <element signature="e#10448#10449#0" expanded="true" />
+            <element signature="e#11040#11204#0" expanded="true" />
+            <element signature="e#11203#11204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/BlockJUnit4ClassRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/serenity-bdd/serenity-junit/2.0.69/serenity-junit-2.0.69-sources.jar!/net/serenitybdd/junit/runners/SerenityRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2955">
+          <caret line="242" selection-start-line="242" selection-end-line="242" />
+          <folding>
+            <element signature="e#16336#16337#0" expanded="true" />
+            <element signature="e#16384#16385#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/Suite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1665">
+          <caret line="128" selection-start-line="128" selection-end-line="128" />
+          <folding>
+            <element signature="e#4545#4546#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Business/DefaultKeys.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steps/GetCurrentWeatherSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/rest/api/SerenityTest_SkyScanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="44" column="41" lean-forward="true" selection-start-line="44" selection-start-column="41" selection-end-line="44" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steps/SkyScannerSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Business/SkyScannerSession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="618">
+          <caret line="66" column="24" lean-forward="true" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>groovy-2.5.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>serenity-rest-assured-automation</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

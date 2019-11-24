@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../Documents/play/Experiments/play-Java-test" value="1456575512000" />
+        <entry key="$PROJECT_DIR$/../Documents/play/Experiments/play-java-intro" value="1456539798000" />
+        <entry key="$PROJECT_DIR$/../Documents/play/Experiments/play-my-app" value="1456649937000" />
+        <entry key="$PROJECT_DIR$/../play-java-intro" value="1456550510000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+</project>
