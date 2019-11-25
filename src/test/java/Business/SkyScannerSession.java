@@ -1,5 +1,8 @@
 package Business;
 
+import io.restassured.RestAssured;
+import io.restassured.config.EncoderConfig;
+import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import io.restassured.config.Config;
 import net.serenitybdd.rest.SerenityRest;
@@ -30,8 +33,11 @@ public class SkyScannerSession {
                                         String inbounddate, String outbounddate, String cabinclass, String adults) {
 
         response = SerenityRest.given()
-                .baseUri(baseurl)
-                .contentType("application/x-www-form-urlencoded; charset=UTF-8")
+                .config(RestAssured.config()
+                        .encoderConfig(EncoderConfig.encoderConfig()
+                                .encodeContentTypeAs("x-www-form-urlencoded",
+                                        ContentType.URLENC)))
+                .contentType(ContentType.URLENC.withCharset("UTF-8"))
                 .formParam("originPlace",originplace)
                 .formParam("destinationPlace",destinationplace)
                 .formParam("inboundDate",inbounddate)
@@ -41,32 +47,14 @@ public class SkyScannerSession {
                 .formParam("country","AU")
                 .formParam("currency","AUD")
                 .formParam("locale","en-US")
-                .headers("x-rapidapi-host", apihost)
-                .headers("x-rapidapi-key", apikey)
-                .when().post("/oauth2/token");
+                .header("x-rapidapi-host",apihost)
+                .header("x-rapidapi-key",apikey)
+                .post(baseurl);
 
 
         return response;
     }
 
-  /*  public Response postCreateSessionid(String originplace, String destinationplace,
-                                        String inbounddate, String outbounddate, String cabinclass, String adults) {
-
-        response = SerenityRest.given().headers("x-rapidapi-host", apihost).
-                headers("x-rapidapi-key", apikey).
-                body("originPlace", originplace).
-                body("destinationPlace", destinationplace).
-                body("inboundDate", inbounddate).
-                body("outboundDate", outbounddate).
-                body("cabinClass", cabinclass).
-                body("adults", adults).
-                body("country", "AU").
-                body("currency","AUD").
-                body("locale","en-US").when().post(baseurl);
-
-        return response;
-    }
- */
 
         public Response getPollSession(String sessionid) {
 

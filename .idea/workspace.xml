@@ -1,7 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ac68417-4d3e-4d90-a80d-69bf3525f06e" name="Default" comment="" />
+    <list default="true" id="7ac68417-4d3e-4d90-a80d-69bf3525f06e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/failsafe-reports/TEST-com.test.rest.api.SerenityTest_SkyScanner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/failsafe-reports/com.test.rest.api.SerenityTest_SkyScanner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/0102e2cd7f36c8d2dbe5a549ca1da1cd9f81df45e34aee883ea8673bf6e93f8f.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/423de5be6965f782d0ab3d7ca4f1c074851e4aaf0090c1a97eedfe09fac88237.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/4c660ad1855a5a0d44650b8582355f2ee25dba72c89cc4f0e8f200b06c9ae195.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/50d5f90f54144f6acadd04c3b81359fa6cecf8c9148dabfd33f6cf817c4e5b4e.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/57c93f6229152740a0fe68a4a07258354ee6f4518d1d442cf65954f3794cb8f6.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/86936b097dd9586a0f5dd2904898182f35c7eb80fadba99fea59e02980c5d61c.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/86936b097dd9586a0f5dd2904898182f35c7eb80fadba99fea59e02980c5d61c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/8c6a19e771a245382707f8593beffc5b905c658434e82c3270a99c55fd11536f.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/8c6a19e771a245382707f8593beffc5b905c658434e82c3270a99c55fd11536f.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/92722aabf3fdf5fdf49c8196d0024370166d1a3ba9522e30b0fb6e701e80c7cf.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/a2e63670af51829bd5746c268c1a9f48106697800c088e6733ff60265fc79436.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/c11281bb50a293421b988607b5d395630e34d6ce9446c6dc9aa3fb261d6e5662.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/c11281bb50a293421b988607b5d395630e34d6ce9446c6dc9aa3fb261d6e5662.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/c7fa70bfb87eb0cd55c15bee74170838b50ec7b4a9bfaa9d21db4e080d3ba0c0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/c8a926210aeff57f8aa7ea799262d4b730915a909cd5ecd6a705b1fa13bc7aa8.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Business/SkyScannerSession.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Business/SkyScannerSession.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/rest/api/SerenityTest_SkyScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/rest/api/SerenityTest_SkyScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/TEST-com.test.rest.api.SerenityTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/failsafe-reports/TEST-com.test.rest.api.SerenityTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/TEST-com.test.rest.api.SerenityTest_lat_long.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/com.test.rest.api.SerenityTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/failsafe-reports/com.test.rest.api.SerenityTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/com.test.rest.api.SerenityTest_lat_long.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/failsafe-summary.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/failsafe-reports/failsafe-summary.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/serenity-rest-assured-automation-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/serenity-rest-assured-automation-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/1bcf6c597f3a7107ac1077b149ab6b7fafcaaf85957083d6c86bdda8c5a0b967.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/1e288a77ae4ea0081d582acda717e41b27eb30eaa47b87c84e9b8bd3d83dca34.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/fa404e98837b3d451adf8b0a6db1100e484e2bd555fb4ba4ed953fe4ea055d4f.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/254fe3d206e84afe17670c72043b5f2274ef58806405017199ffcc11fd4c7c90.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/254fe3d206e84afe17670c72043b5f2274ef58806405017199ffcc11fd4c7c90.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/254fe3d206e84afe17670c72043b5f2274ef58806405017199ffcc11fd4c7c90.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/254fe3d206e84afe17670c72043b5f2274ef58806405017199ffcc11fd4c7c90.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/462b163d9174bb170cd2634d3fd3c10278ceaea138c2b631b0e3dee5d71d0fcb.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/47d136cdb2b7bf9a9e39ff590f9283a2874da9079f82c8ea84ccd35e3e5b02a6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/47d136cdb2b7bf9a9e39ff590f9283a2874da9079f82c8ea84ccd35e3e5b02a6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/51634885ef7e4426e35931989ecee2a8882a0784fd106859a85364b6432360fc.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/57552fcf8e0ead5db4ea1df6b9e9718122e0dcf51f9ce61f0dddf2645f480dcf.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/57552fcf8e0ead5db4ea1df6b9e9718122e0dcf51f9ce61f0dddf2645f480dcf.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/57c93f6229152740a0fe68a4a07258354ee6f4518d1d442cf65954f3794cb8f6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/57fc9ff58e92cc0fdce4bae4065b6934f963d54ad39951328654816ed9bcec13.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/57fc9ff58e92cc0fdce4bae4065b6934f963d54ad39951328654816ed9bcec13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/6595a7fe8af59114cf285d139e79b0232a4c0499086a218dcd3792e3804b9c91.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/6595a7fe8af59114cf285d139e79b0232a4c0499086a218dcd3792e3804b9c91.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/995c8b23eef49a01612f502d06e3f443d29c96dbf7ae028df023ca2031a414ef.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/995c8b23eef49a01612f502d06e3f443d29c96dbf7ae028df023ca2031a414ef.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/9eb40381c0282de108b626a0cb38061f16036aa9d0d734eec4edfea0fc0a8ce1.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/4254ca553b2a12efc03c03d02a52e00968da5d06ff2323e260202d27ee0c263a.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-254fe3d206e84afe17670c72043b5f2274ef58806405017199ffcc11fd4c7c90.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-254fe3d206e84afe17670c72043b5f2274ef58806405017199ffcc11fd4c7c90.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-47d136cdb2b7bf9a9e39ff590f9283a2874da9079f82c8ea84ccd35e3e5b02a6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-57fc9ff58e92cc0fdce4bae4065b6934f963d54ad39951328654816ed9bcec13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/a0ace456df350117335ad374e8d62c0d8c978db868ea1469e0c5ba32aac965ea.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/22a92488e2bf162eb58f3f453b650dde0bab75a2b31234832f024f39b1c5f192.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/a32c05c700473d0d5c3da8c5fb35c6bfb3b9881b1d2f1f0f52c8c33d0b20bb5b.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/a32c05c700473d0d5c3da8c5fb35c6bfb3b9881b1d2f1f0f52c8c33d0b20bb5b.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/423de5be6965f782d0ab3d7ca4f1c074851e4aaf0090c1a97eedfe09fac88237.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/a4152c143b02ed74d34a05b6593d6d3def1bd17e0eff9aaf250df4d40ade291f.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/a4152c143b02ed74d34a05b6593d6d3def1bd17e0eff9aaf250df4d40ade291f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/bfeaff4e8043e31b4a5a5a2743d2e86afb9b17a7c7a6d193f423678cc0259270.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/build-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/build-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/capabilities.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/capabilities.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/da5b0c51b332adf0ef993a9f086d6a1b51a3d800248ec6ae281212092f35bd37.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/da5b0c51b332adf0ef993a9f086d6a1b51a3d800248ec6ae281212092f35bd37.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/ec2529ac3c74acacdef190cf0fe66516dcfb26657dc8466f15707f8fcb623ec1.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/c8a926210aeff57f8aa7ea799262d4b730915a909cd5ecd6a705b1fa13bc7aa8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/f69faa25e410b024b7731cb7cd10cd09feebbec96e8f4a6a4a1fb56267f77048.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/d5fae03c941b4d587cf30146d2ff3119fbc4796d99d2e60732fad7f6a3ef0915.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/fa6417e20ace120d57a352601668bb8a7c8125dc14c505e2641c2c7c7a202a41.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/fa6417e20ace120d57a352601668bb8a7c8125dc14c505e2641c2c7c7a202a41.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/0102e2cd7f36c8d2dbe5a549ca1da1cd9f81df45e34aee883ea8673bf6e93f8f.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/flow/serenity.configuration.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/flow/serenity.configuration.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/results.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/results.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/summary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/summary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Business/SkyScannerSession.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Business/SkyScannerSession.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/rest/api/SerenityTest_SkyScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/test/rest/api/SerenityTest_SkyScanner.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +93,112 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/test/rest/api/SerenityTest_SkyScanner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="369" selection-start-line="369" selection-end-line="369" />
+              <folding>
+                <element signature="e#2922#2923#0" expanded="true" />
+                <element signature="e#2966#2967#0" expanded="true" />
+                <element signature="e#10310#10449#0" expanded="true" />
+                <element signature="e#10448#10449#0" expanded="true" />
+                <element signature="e#11040#11204#0" expanded="true" />
+                <element signature="e#11203#11204#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/net/serenity-bdd/serenity-junit/2.0.69/serenity-junit-2.0.69-sources.jar!/net/serenitybdd/junit/runners/SerenityParameterizedRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="210" selection-start-line="210" selection-end-line="210" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runner/JUnitCore.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="146" column="6" lean-forward="true" selection-start-line="146" selection-start-column="6" selection-end-line="146" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Business/SkyScannerSession.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="795">
+              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/steps/SkyScannerSteps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Business/DefaultKeys.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/net/serenity-bdd/serenity-junit/2.0.69/serenity-junit-2.0.69-sources.jar!/net/serenitybdd/junit/runners/SerenityRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="242" selection-start-line="242" selection-end-line="242" />
+              <folding>
+                <element signature="e#16336#16337#0" expanded="true" />
+                <element signature="e#16384#16385#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/Suite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="471">
+              <caret line="128" selection-start-line="128" selection-end-line="128" />
+              <folding>
+                <element signature="e#4545#4546#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -37,6 +217,9 @@
       <find>serenity.maven.version</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -45,14 +228,15 @@
         <option value="$PROJECT_DIR$/src/test/java/Business/CallHandler.java" />
         <option value="$PROJECT_DIR$/src/test/java/steps/GetCurrentWeatherSteps.java" />
         <option value="$PROJECT_DIR$/pom1.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/test/rest/api/SerenityTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/test/rest/api/SerenityTest_lat_long.java" />
         <option value="$PROJECT_DIR$/src/test/java/Business/CurrentWeather.java" />
         <option value="$PROJECT_DIR$/src/test/java/Business/DefaultKeys.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/test/rest/api/SerenityTest_SkyScanner.java" />
         <option value="$PROJECT_DIR$/src/test/java/steps/SkyScannerSteps.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/Business/SkyScannerSession.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/test/rest/api/SerenityTest_SkyScanner.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -70,14 +254,31 @@
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="Sample Serenity BDD project using JUnit" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Sample Serenity BDD project using JUnit" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Sample Serenity BDD project using JUnit" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Sample Serenity BDD project using JUnit" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="serenity" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
       </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="-171" />
     <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="709" />
+    <option name="width" value="1747" />
+    <option name="height" value="733" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -101,12 +302,65 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RestassureAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestassureAPI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestassureAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestassureAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestassureAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestassureAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestassureAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestassureAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestassureAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestassureAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Business" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestassureAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestassureAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestassureAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestassureAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="steps" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -168,6 +422,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SerenityTest_SkyScanner.verifyThatUserCanPollSession_paramterized" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="serenity-rest-assured-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.rest.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.rest.api" />
+      <option name="MAIN_CLASS_NAME" value="com.test.rest.api.SerenityTest_SkyScanner" />
+      <option name="METHOD_NAME" value="verifyThatUserCanPollSession_paramterized" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SerenityTest_lat_long (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="serenity-rest-assured-automation" />
       <extension name="coverage">
@@ -195,23 +466,6 @@
       <option name="PACKAGE_NAME" value="com.test.rest.api" />
       <option name="MAIN_CLASS_NAME" value="com.test.rest.api.SerenityTest_lat_long" />
       <option name="METHOD_NAME" value="testData" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SerenityTest_lat_long.verifyThatUserCanQueryCurrentWeatherWithLocation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test_project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.rest.api.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.test.rest.api" />
-      <option name="MAIN_CLASS_NAME" value="com.test.rest.api.SerenityTest_lat_long" />
-      <option name="METHOD_NAME" value="verifyThatUserCanQueryCurrentWeatherWithLocation" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -329,17 +583,17 @@
       <item itemvalue="JUnit.SerenityTest_SkyScanner" />
       <item itemvalue="JUnit.SerenityTest_lat_long (1)" />
       <item itemvalue="JUnit.SerenityTest_lat_long.testData" />
-      <item itemvalue="JUnit.SerenityTest_lat_long.verifyThatUserCanQueryCurrentWeatherWithLocation" />
       <item itemvalue="JUnit.SerenityTest_lat_long.verifyThatUserCanQueryCurrentWeatherWithLocation_paramterized" />
       <item itemvalue="Maven.serenity aggregate" />
+      <item itemvalue="JUnit.SerenityTest_SkyScanner.verifyThatUserCanPollSession_paramterized" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.SerenityTest_SkyScanner" />
+        <item itemvalue="JUnit.SerenityTest_SkyScanner.verifyThatUserCanPollSession_paramterized" />
         <item itemvalue="JUnit.SerenityTest_lat_long (1)" />
         <item itemvalue="JUnit.SerenityTest_lat_long.verifyThatUserCanQueryCurrentWeatherWithLocation_paramterized" />
         <item itemvalue="JUnit.SerenityTest_lat_long.testData" />
-        <item itemvalue="JUnit.SerenityTest_lat_long.verifyThatUserCanQueryCurrentWeatherWithLocation" />
       </list>
     </recent_temporary>
   </component>
@@ -357,41 +611,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SerenityTest_lat_long_verifyThatUserCanQueryCurrentWeatherWithLocation_paramterized - 2019.11.23 at 15h 49m 42s.xml">
-      <configuration name="SerenityTest_lat_long.verifyThatUserCanQueryCurrentWeatherWithLocation_paramterized" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SerenityTest_lat_long_(1) - 2019.11.23 at 15h 50m 03s.xml">
-      <configuration name="SerenityTest_lat_long (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SerenityTest_lat_long_(1) - 2019.11.23 at 15h 51m 42s.xml">
-      <configuration name="SerenityTest_lat_long (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SerenityTest_SkyScanner - 2019.11.23 at 23h 31m 53s.xml">
+    <history-entry file="SerenityTest_SkyScanner - 2019.11.25 at 11h 05m 57s.xml">
       <configuration name="SerenityTest_SkyScanner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SerenityTest_SkyScanner - 2019.11.23 at 23h 36m 24s.xml">
+    <history-entry file="SerenityTest_SkyScanner - 2019.11.25 at 11h 07m 36s.xml">
       <configuration name="SerenityTest_SkyScanner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SerenityTest_SkyScanner - 2019.11.23 at 23h 54m 38s.xml">
+    <history-entry file="SerenityTest_SkyScanner - 2019.11.25 at 11h 09m 19s.xml">
       <configuration name="SerenityTest_SkyScanner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SerenityTest_lat_long_(1) - 2019.11.23 at 23h 59m 27s.xml">
-      <configuration name="SerenityTest_lat_long (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SerenityTest_SkyScanner - 2019.11.24 at 14h 42m 12s.xml">
+    <history-entry file="SerenityTest_SkyScanner - 2019.11.25 at 11h 09m 28s.xml">
       <configuration name="SerenityTest_SkyScanner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SerenityTest_SkyScanner - 2019.11.24 at 14h 48m 41s.xml">
+    <history-entry file="SerenityTest_SkyScanner - 2019.11.25 at 11h 22m 53s.xml">
       <configuration name="SerenityTest_SkyScanner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SerenityTest_SkyScanner - 2019.11.24 at 15h 05m 27s.xml">
+    <history-entry file="SerenityTest_SkyScanner - 2019.11.25 at 11h 27m 29s.xml">
+      <configuration name="SerenityTest_SkyScanner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SerenityTest_SkyScanner - 2019.11.25 at 12h 05m 59s.xml">
+      <configuration name="SerenityTest_SkyScanner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SerenityTest_SkyScanner - 2019.11.25 at 12h 14m 55s.xml">
+      <configuration name="SerenityTest_SkyScanner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SerenityTest_SkyScanner - 2019.11.25 at 12h 31m 43s.xml">
+      <configuration name="SerenityTest_SkyScanner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SerenityTest_SkyScanner - 2019.11.25 at 13h 36m 26s.xml">
       <configuration name="SerenityTest_SkyScanner" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27263045" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17039403" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -399,16 +654,16 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24698795" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5228916" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32917318" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3927711" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39009902" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.28915662" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.4950495" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32771084" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32673267" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -417,7 +672,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.1098546" />
-      <window_info anchor="right" id="Maven" order="8" />
+      <window_info anchor="right" id="Maven" order="8" visible="true" weight="0.2454739" />
     </layout>
   </component>
   <component name="XDebuggerManager">
@@ -509,15 +764,9 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/test/rest/api/SerenityTest_SkyScanner.java</url>
-          <line>19</line>
+          <line>20</line>
           <properties />
           <option name="timeStamp" value="39" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/steps/SkyScannerSteps.java</url>
-          <line>25</line>
-          <properties />
-          <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/Business/CurrentWeather.java</url>
@@ -527,9 +776,15 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/Business/SkyScannerSession.java</url>
-          <line>36</line>
+          <line>54</line>
           <properties />
-          <option name="timeStamp" value="53" />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Business/SkyScannerSession.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/test/java/Business/CallHandler.java</url>
@@ -557,7 +812,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/test/java/com/test/rest/api/SerenityTest_SkyScanner.java</url>
-          <line>52</line>
+          <line>53</line>
           <properties field="skyScannerSteps" class="com.test.rest.api.SerenityTest_SkyScanner" />
           <option name="timeStamp" value="42" />
         </line-breakpoint>
@@ -570,20 +825,14 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/steps/GetCurrentWeatherSteps.java</url>
           <line>33</line>
-          <properties class="steps.GetCurrentWeatherSteps" />
+          <properties class="steps.GetCurrentWeatherSteps" method="iShouldFindWeather" />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/steps/GetCurrentWeatherSteps.java</url>
           <line>38</line>
-          <properties class="steps.GetCurrentWeatherSteps" />
+          <properties class="steps.GetCurrentWeatherSteps" method="searchWeatherByLocation" />
           <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/test/java/steps/SkyScannerSteps.java</url>
-          <line>35</line>
-          <properties class="steps.SkyScannerSteps" method="searchIsExecutedSuccesfully" />
-          <option name="timeStamp" value="48" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -593,11 +842,18 @@
         <watch expression="new Object[][]{&#10;                    {&quot;MEL-sky&quot;, &quot;SYD-sky&quot;, &quot;2019-12-01&quot;, &quot;2019-12-20&quot;, &quot;business&quot;, &quot;1&quot;},&#10;                    {&quot;MEL-sky&quot;, &quot;SYD-sky&quot;, &quot;2019-12-02&quot;, &quot;2019-12-21&quot;, &quot;business&quot;, &quot;2&quot;},&#10;&#10;&#10;            }" language="JAVA" />
         <watch expression="originplace" />
         <watch expression="response" />
+        <watch expression="response.then().statusCode()" language="JAVA" />
+        <watch expression="Arrays.asList(new Object[][]{&#10;                    {&quot;MEL-sky&quot;, &quot;SYD-sky&quot;, &quot;2019-12-01&quot;, &quot;2019-12-20&quot;, &quot;business&quot;, &quot;1&quot;},&#10;                    {&quot;MEL-sky&quot;, &quot;SYD-sky&quot;, &quot;2019-12-02&quot;, &quot;2019-12-21&quot;, &quot;business&quot;, &quot;2&quot;},&#10;&#10;&#10;            })" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>response.then().statusCode()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>new Object[][]{
                     {&quot;MEL-sky&quot;, &quot;SYD-sky&quot;, &quot;2019-12-01&quot;, &quot;2019-12-20&quot;, &quot;business&quot;, &quot;1&quot;},
@@ -631,13 +887,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/test/rest/api/FirstTest.java" />
     <entry file="file://$PROJECT_DIR$/pom1.xml" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="103" column="56" selection-start-line="103" selection-start-column="56" selection-end-line="103" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/serenity-rest-assured-automation.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -683,16 +932,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="40" column="42" selection-start-line="40" selection-end-line="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Business/CurrentWeather.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -843,16 +1082,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steps/GetCurrentWeatherSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="29" column="34" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Business/CurrentWeather.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1545">
+          <caret line="103" column="56" selection-start-line="103" selection-start-column="56" selection-end-line="103" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/cglib/cglib/3.2.5/cglib-3.2.5-sources.jar!/net/sf/cglib/proxy/MethodProxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="441">
           <caret line="229" selection-start-line="229" selection-end-line="229" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/net/serenity-bdd/serenity-core/2.0.69/serenity-core-2.0.69-sources.jar!/net/thucydides/core/steps/StepInterceptor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
+        <state relative-caret-position="185">
           <caret line="68" selection-start-line="68" selection-end-line="68" />
         </state>
       </provider>
@@ -866,8 +1132,12 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
+        <state relative-caret-position="107">
           <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#1464#1658#0" expanded="true" />
+            <element signature="e#1657#1658#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -880,15 +1150,43 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/net/serenity-bdd/serenity-junit/2.0.69/serenity-junit-2.0.69-sources.jar!/net/serenitybdd/junit/runners/SerenityStatement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
+        <state relative-caret-position="427">
           <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/BlockJUnit4ClassRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/serenity-bdd/serenity-junit/2.0.69/serenity-junit-2.0.69-sources.jar!/net/serenitybdd/junit/runners/SerenityRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="242" selection-start-line="242" selection-end-line="242" />
+          <folding>
+            <element signature="e#16336#16337#0" expanded="true" />
+            <element signature="e#16384#16385#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/Suite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="128" selection-start-line="128" selection-end-line="128" />
+          <folding>
+            <element signature="e#4545#4546#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3645">
-          <caret line="287" selection-start-line="287" selection-end-line="287" />
+        <state relative-caret-position="189">
+          <caret line="369" selection-start-line="369" selection-end-line="369" />
           <folding>
             <element signature="e#2922#2923#0" expanded="true" />
             <element signature="e#2966#2967#0" expanded="true" />
@@ -900,45 +1198,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/BlockJUnit4ClassRunner.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/net/serenity-bdd/serenity-junit/2.0.69/serenity-junit-2.0.69-sources.jar!/net/serenitybdd/junit/runners/SerenityParameterizedRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        <state relative-caret-position="152">
+          <caret line="210" selection-start-line="210" selection-end-line="210" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/net/serenity-bdd/serenity-junit/2.0.69/serenity-junit-2.0.69-sources.jar!/net/serenitybdd/junit/runners/SerenityRunner.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runner/JUnitCore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2955">
-          <caret line="242" selection-start-line="242" selection-end-line="242" />
-          <folding>
-            <element signature="e#16336#16337#0" expanded="true" />
-            <element signature="e#16384#16385#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/Suite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1665">
-          <caret line="128" selection-start-line="128" selection-end-line="128" />
-          <folding>
-            <element signature="e#4545#4546#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="287">
+          <caret line="146" column="6" lean-forward="true" selection-start-line="146" selection-start-column="6" selection-end-line="146" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Business/DefaultKeys.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="30">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/steps/GetCurrentWeatherSteps.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Business/SkyScannerSession.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="795">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -947,8 +1231,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/test/rest/api/SerenityTest_SkyScanner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="44" column="41" lean-forward="true" selection-start-line="44" selection-start-column="41" selection-end-line="44" selection-end-column="41" />
+        <state relative-caret-position="334">
+          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -957,18 +1241,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/steps/SkyScannerSteps.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Business/SkyScannerSession.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="618">
-          <caret line="66" column="24" lean-forward="true" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
+        <state relative-caret-position="231">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -978,7 +1252,7 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>

@@ -97,7 +97,7 @@
             <a href="capabilities.html"><i class="fa fa-book"></i> Requirements</a>
         </li>
     </ul>
-    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 23-11-2019 23:54</span>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 25-11-2019 13:37</span>
     <br style="clear:left"/>
 </div>
     <div class="clr"></div>
@@ -122,6 +122,13 @@
 
                         </td>
                         <td valign="top">
+                                <p class="tag">
+                                    <span class="badge tag-badge" style="background:default;">
+                                    <i class="fa fa-tag"></i>&nbsp;<a class="tagLink" style="background:default;"
+                                                                      href="c11281bb50a293421b988607b5d395630e34d6ce9446c6dc9aa3fb261d6e5662.html">Skyscanner
+                                    (feature)</a>
+                                </span>
+                                </p>
                         </td>
                     </tr>
                 </table>
@@ -130,9 +137,9 @@
                 <table class="outcome-header">
                     <tr>
                         <td colspan="2" class="test-title-bar">
-                            <span class="outcome-icon"><i class='fa fa-times-circle failure-icon fa-2x' title='FAILURE'></i></span>
+                            <span class="outcome-icon"><i class='fa fa-exclamation-triangle error-icon fa-2x' title='ERROR'></i></span>
                             <span class="test-case-title">
-                                <span class="failing-color">
+                                <span class="error-color">
                                     Verify that user can poll session paramterized
                                         <span class="related-issue-title"></span>
                                 </span>
@@ -153,7 +160,7 @@
         <div class="story-title">
             <h3 class="story-header">Scenario Outline</h3>
 
-            <div class="scenario">I try to search skyscanner with &lt;Parameter 1&gt; origin {{&lt;Parameter 6&gt;}} destination &lt;Parameter 4&gt; inbounddate &lt;Parameter 3&gt; outbounddate  &lt;Parameter 5&gt; cabinclass &lt;Parameter 6&gt; adults <br>Then I should get status code 200</div>
+            <div class="scenario">I try to search skyscanner with &lt;Parameter 1&gt; origin {{&lt;Parameter 6&gt;}} destination &lt;Parameter 4&gt; inbounddate &lt;Parameter 3&gt; outbounddate  &lt;Parameter 5&gt; cabinclass &lt;Parameter 6&gt; adults <br>Then I should get status code 200<br>I can get the search results using sessionid <br>Then I should get status code 200</div>
 
         </div>
 
@@ -181,44 +188,44 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td class="test-FAILURE"><a href="#0">1</a></td>
-                                <td class="test-FAILURE"><a
+                            <td class="test-ERROR"><a href="#0">1</a></td>
+                                <td class="test-ERROR"><a
                                             href="#0">MEL-sky</a>
                                 </td>
-                                <td class="test-FAILURE"><a
+                                <td class="test-ERROR"><a
                                             href="#0">SYD-sky</a>
                                 </td>
-                                <td class="test-FAILURE"><a
+                                <td class="test-ERROR"><a
                                             href="#0">2019-12-01</a>
                                 </td>
-                                <td class="test-FAILURE"><a
+                                <td class="test-ERROR"><a
                                             href="#0">2019-12-20</a>
                                 </td>
-                                <td class="test-FAILURE"><a
+                                <td class="test-ERROR"><a
                                             href="#0">business</a>
                                 </td>
-                                <td class="test-FAILURE"><a
+                                <td class="test-ERROR"><a
                                             href="#0">1</a>
                                 </td>
                         </tr>
                         <tr>
-                            <td class="test-FAILURE"><a href="#1">2</a></td>
-                                <td class="test-FAILURE"><a
+                            <td class="test-ERROR"><a href="#1">2</a></td>
+                                <td class="test-ERROR"><a
                                             href="#1">MEL-sky</a>
                                 </td>
-                                <td class="test-FAILURE"><a
+                                <td class="test-ERROR"><a
                                             href="#1">SYD-sky</a>
                                 </td>
-                                <td class="test-FAILURE"><a
+                                <td class="test-ERROR"><a
                                             href="#1">2019-12-02</a>
                                 </td>
-                                <td class="test-FAILURE"><a
+                                <td class="test-ERROR"><a
                                             href="#1">2019-12-21</a>
                                 </td>
-                                <td class="test-FAILURE"><a
+                                <td class="test-ERROR"><a
                                             href="#1">business</a>
                                 </td>
-                                <td class="test-FAILURE"><a
+                                <td class="test-ERROR"><a
                                             href="#1">2</a>
                                 </td>
                         </tr>
@@ -243,12 +250,12 @@
                 <tr class="step-table-separator">
                     <td colspan="5"></td>
                 </tr>
-                <tr class="test-FAILURE">
+                <tr class="test-ERROR">
                     <td width="50" class="step-icon">
                         <a name="0"/>
                             <a href="javaScript:void(0)" onClick="toggleDiv('stepSection0')"
                                style="display:block">
-                                <i class="fa fa-plus-square-o imgstepSection0 failure-icon"
+                                <i class="fa fa-plus-square-o imgstepSection0 error-icon"
                                    style="margin-left: 20px; float:left;  padding-right:5px"></i>
                             </a>
                     </td>
@@ -264,19 +271,19 @@
                             </span>
                         </div>
                     </td>
-                    <td width="100"><span class="top-level-step">FAILURE</span></td>
-                    <td width="100"><span class="top-level-step">689.85s</span></td>
+                    <td width="100"><span class="top-level-step">ERROR</span></td>
+                    <td width="100"><span class="top-level-step">3.95s</span></td>
                 </tr>
                 <tr>
                     <td colspan="5">
                         <table id="stepSection0" style="display:none; width:100%">
 
-                <tr class="test-SUCCESS">
+                <tr class="test-ERROR">
                     <td width="50" class="step-icon">
                         <a name="0-2"/>
                             <a href="javaScript:void(0)" onClick="toggleDiv('stepSection0-2')"
                                style="display:block">
-                                <i class="fa fa-plus-square-o imgstepSection0-2 success-icon"
+                                <i class="fa fa-plus-square-o imgstepSection0-2 error-icon"
                                    style="margin-left: 40px; float:left;  padding-right:5px"></i>
                             </a>
                     </td>
@@ -292,9 +299,47 @@
                             </span>
                         </div>
                     </td>
-                    <td width="100"><span class="nested-step">SUCCESS</span></td>
-                    <td width="100"><span class="nested-step">689.25s</span></td>
+                    <td width="100"><span class="nested-step">ERROR</span></td>
+                    <td width="100"><span class="nested-step">3.95s</span></td>
                 </tr>
+                    <tr class="test-ERROR">
+                        <td width="40">&nbsp</td>
+                        <td width="%" colspan="3" class="error-message-cell">
+
+
+    <div style="display:block">
+        <div class="table">
+            <div class="row">
+                <div class="col-sm-10" style="padding-left:1.5em; padding-top:0.5em; padding-bottom:0.5em;">
+                    <span class="error-message error-message-title">java.lang.NullPointerException</span>
+                </div>
+                <div class="col-sm-2">
+                    <a class="btn btn-warning details-button" data-toggle="collapse" href="#stacktraceModal-2""
+                       role="button" aria-expanded="false" aria-controls="multiCollapseExample1"><i class="far fa-eye"></i> More details</a>
+                </div>
+             </div>
+        </div>
+    <div>
+
+    <!-- Details Section -->
+    <div class="row stacktrace-details">
+      <div class="col">
+        <div class="collapse multi-collapse" id="stacktraceModal-2">
+            <div class="card">
+                <div class="card-header">
+                    <h4>java.lang.NullPointerException </h4>
+                </div>
+                <div class="card-body">
+                    <div>
+                        <pre>steps.SkyScannerSteps.postTwoLocations(SkyScannerSteps.java:29)<br />com.test.rest.api.SerenityTest_SkyScanner.verifyThatUserCanPollSession_paramterized(SerenityTest_SkyScanner.java:59)<br /></pre>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+                        </td>
+                    </tr>
                 <tr>
                     <td colspan="5">
                         <table id="stepSection0-2" style="display:none; width:100%">
@@ -308,7 +353,7 @@
                     <td>
                         <div class="step-description">
                                 <span class="nested-group-step">
-                                POST https://skyscanner-skyscanner-flight-search-v1.p.rapidapi.com/apiservices/pricing
+                                POST https://skyscanner-skyscanner-flight-search-v1.p.rapidapi.com/apiservices/pricing/v1.0
                             </span>
                             <span class="evidence">
                                     <span class="piece-of-evidence">
@@ -324,182 +369,14 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4>Response</h4>
-                                            <p>Status code: 404</p>
+                                            <p>Status code: 403</p>
                                             <p>Content Type: application/x-www-form-urlencoded</p>
                                             <h4>Request Headers</h4>
-                                            <pre>x-rapidapi-host=skyscanner-skyscanner-flight-search-v1.p.rapidapi.com<br>x-rapidapi-key=1cf93091b1mshe1509d08adb1a40p13260ajsn8ef9df1068da<br>Accept=*/*<br>Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1</pre>
-                                            <h4>Content Body</h4>
-                                            <pre>MEL-sky</pre>
+                                            <pre>x-rapidapi-host=skyscanner-skyscanner-flight-search-v1.p.rapidapi.com<br>x-rapidapi-key=1cf93091b1mshe1509d08adb1a40p13260ajsn8ef9df1068da<br>Accept=*/*<br>Content-Type=application/x-www-form-urlencoded; charset=UTF-8</pre>
                                             <h4>Response Headers</h4>
-                                            <pre>Content-Type: application/json<br>Date: Sat, 23 Nov 2019 12:49:35 GMT<br>Server: RapidAPI-1.0.32<br>X-RapidAPI-Proxy-Response: true<br>X-RapidAPI-Region: AWS - ap-southeast-2<br>X-RapidAPI-Version: 1.0.32<br>Content-Length: 59<br>Connection: keep-alive</pre>
+                                            <pre>Cache-Control: private<br>Content-Type: application/json<br>Date: Mon, 25 Nov 2019 02:37:22 GMT<br>Server: RapidAPI-1.0.32<br>X-RapidAPI-Region: AWS - ap-southeast-2<br>X-RapidAPI-Version: 1.0.32<br>Content-Length: 76<br>Connection: keep-alive</pre>
                                         <h4>Response Body</h4>
-                                            <pre>{<br>    &quot;message&quot;: &quot;Endpoint/apiservices/pricing does not exist&quot;<br>}</pre>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                                    </span>
-                            </span>
-                        </div>
-                    </td>
-                    <td width="100"><span class="nested-group-step">SUCCESS</span></td>
-                    <td width="100"><span class="nested-group-step">0.01s</span></td>
-                </tr>
-
-                        </table>
-                    </td>
-                <tr>
-                <tr class="test-FAILURE">
-                    <td width="50" class="step-icon">
-                        <a name="0-3"/>
-                            <span style="margin-left: 40px; margin-right: 5px;"
-                                  class="nested-group-icon"><i class='fa fa-times-circle failure-icon ' title='FAILURE'></i></span>
-                    </td>
-                    <td>
-                        <div class="step-description">
-                                <span class="nested-group-step">
-                                Then I should get status code 200
-                            </span>
-                            <span class="evidence">
-                            </span>
-                        </div>
-                    </td>
-                    <td width="100"><span class="nested-group-step">FAILURE</span></td>
-                    <td width="100"><span class="nested-group-step">0.6s</span></td>
-                </tr>
-                    <tr class="test-FAILURE">
-                        <td width="40">&nbsp</td>
-                        <td width="%" colspan="3" class="error-message-cell">
-
-
-    <div style="display:block">
-        <div class="table">
-            <div class="row">
-                <div class="col-sm-10" style="padding-left:1.5em; padding-top:0.5em; padding-bottom:0.5em;">
-                    <span class="error-message error-message-title">java.lang.AssertionError: 1 expectation failed.<br>Expected status code &lt;200&gt; but was &lt;404&gt;.<br></span>
-                </div>
-                <div class="col-sm-2">
-                    <a class="btn btn-warning details-button" data-toggle="collapse" href="#stacktraceModal-4""
-                       role="button" aria-expanded="false" aria-controls="multiCollapseExample1"><i class="far fa-eye"></i> More details</a>
-                </div>
-             </div>
-        </div>
-    <div>
-
-    <!-- Details Section -->
-    <div class="row stacktrace-details">
-      <div class="col">
-        <div class="collapse multi-collapse" id="stacktraceModal-4">
-            <div class="card">
-                <div class="card-header">
-                    <h4>java.lang.AssertionError </h4>
-                </div>
-                <div class="card-body">
-                    <div>
-                        <pre>io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:656)<br />io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:125)<br />io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:133)<br />io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:119)<br />steps.SkyScannerSteps.searchIsExecutedSuccesfully(SkyScannerSteps.java:26)<br />com.test.rest.api.SerenityTest_SkyScanner.verifyThatUserCanPollSession_paramterized(SerenityTest_SkyScanner.java:61)<br /></pre>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </div>
-                        </td>
-                    </tr>
-
-                        </table>
-                    </td>
-                <tr>
-                <tr class="test-FAILURE">
-                    <td width="50" class="step-icon">
-                        <a name="1"/>
-                            <a href="javaScript:void(0)" onClick="toggleDiv('stepSection1')"
-                               style="display:block">
-                                <i class="fa fa-plus-square-o imgstepSection1 failure-icon"
-                                   style="margin-left: 20px; float:left;  padding-right:5px"></i>
-                            </a>
-                    </td>
-                    <td>
-                        <div class="step-description">
-                            <a href="javaScript:void(0)" onClick="toggleDiv('stepSection1')"
-                               style="display:block;">
-                                <span class="top-level-step">
-                                Verify that user can poll session paramterized
-                            </span>
-                            </a>
-                            <span class="evidence">
-                            </span>
-                        </div>
-                    </td>
-                    <td width="100"><span class="top-level-step">FAILURE</span></td>
-                    <td width="100"><span class="top-level-step">276.36s</span></td>
-                </tr>
-                <tr>
-                    <td colspan="5">
-                        <table id="stepSection1" style="display:none; width:100%">
-
-                <tr class="test-SUCCESS">
-                    <td width="50" class="step-icon">
-                        <a name="1-2"/>
-                            <a href="javaScript:void(0)" onClick="toggleDiv('stepSection1-2')"
-                               style="display:block">
-                                <i class="fa fa-plus-square-o imgstepSection1-2 success-icon"
-                                   style="margin-left: 40px; float:left;  padding-right:5px"></i>
-                            </a>
-                    </td>
-                    <td>
-                        <div class="step-description">
-                            <a href="javaScript:void(0)" onClick="toggleDiv('stepSection1-2')"
-                               style="display:block;">
-                                <span class="nested-step">
-                                I try to search skyscanner with MEL-sky origin SYD-sky destination 2019-12-21 inbounddate 2019-12-02 outbounddate  business cabinclass 2 adults
-                            </span>
-                            </a>
-                            <span class="evidence">
-                            </span>
-                        </div>
-                    </td>
-                    <td width="100"><span class="nested-step">SUCCESS</span></td>
-                    <td width="100"><span class="nested-step">276.28s</span></td>
-                </tr>
-                <tr>
-                    <td colspan="5">
-                        <table id="stepSection1-2" style="display:none; width:100%">
-
-                <tr class="test-SUCCESS">
-                    <td width="50" class="step-icon">
-                        <a name="1-2-2"/>
-                            <span style="margin-left: 60px; margin-right: 5px;"
-                                  class="nested-group-icon"><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></span>
-                    </td>
-                    <td>
-                        <div class="step-description">
-                                <span class="nested-group-step">
-                                POST https://skyscanner-skyscanner-flight-search-v1.p.rapidapi.com/apiservices/pricing
-                            </span>
-                            <span class="evidence">
-                                    <span class="piece-of-evidence">
-                        <span>
-                    <button type="button" class="btn btn-success btn-sm" data-toggle="collapse"
-                            data-target="#restModal-REST-7">
-                        REST Query
-                    </button>
-                </span>
-                        <!-- Modal -->
-                        <div class="rest-query-details">
-                            <div class="collapse multi-collapse" id="restModal-REST-7">
-                                <div class="card">
-                                    <div class="card-body">
-                                        <h4>Response</h4>
-                                            <p>Status code: 404</p>
-                                            <p>Content Type: application/x-www-form-urlencoded</p>
-                                            <h4>Request Headers</h4>
-                                            <pre>x-rapidapi-host=skyscanner-skyscanner-flight-search-v1.p.rapidapi.com<br>x-rapidapi-key=1cf93091b1mshe1509d08adb1a40p13260ajsn8ef9df1068da<br>Accept=*/*<br>Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1</pre>
-                                            <h4>Content Body</h4>
-                                            <pre>({ &nbsp; &nbsp; &nbsp; &nbsp;&quot;inboundDate&quot;: &quot;2019-09-10&quot;, &nbsp; &nbsp; &nbsp; &nbsp;&quot;cabinClass&quot;: &quot;business&quot;, &nbsp; &nbsp; &nbsp; &nbsp;&quot;children&quot;: &quot;0&quot;, &nbsp; &nbsp; &nbsp; &nbsp;&quot;infants&quot;: &quot;0&quot;, &nbsp; &nbsp; &nbsp; &nbsp;&quot;country&quot;: &quot;US&quot;, &nbsp; &nbsp; &nbsp; &nbsp;&quot;currency&quot;: &quot;USD&quot;, &nbsp; &nbsp; &nbsp; &nbsp;&quot;locale&quot;: &quot;en-US&quot;, &nbsp; &nbsp; &nbsp; &nbsp;&quot;originPlace&quot;: &quot;SFO-sky&quot;, &nbsp; &nbsp; &nbsp; &nbsp;&quot;destinationPlace&quot;: &quot;LHR-sky&quot;, &nbsp; &nbsp; &nbsp; &nbsp;&quot;outboundDate&quot;: &quot;2019-09-01&quot;, &nbsp; &nbsp; &nbsp; &nbsp;&quot;adults&quot;: &quot;1&quot; })</pre>
-                                            <h4>Response Headers</h4>
-                                            <pre>Content-Type: application/json<br>Date: Sat, 23 Nov 2019 12:52:33 GMT<br>Server: RapidAPI-1.0.32<br>X-RapidAPI-Proxy-Response: true<br>X-RapidAPI-Region: AWS - ap-southeast-2<br>X-RapidAPI-Version: 1.0.32<br>Content-Length: 59<br>Connection: keep-alive</pre>
-                                        <h4>Response Body</h4>
-                                            <pre>{<br>    &quot;message&quot;: &quot;Endpoint/apiservices/pricing does not exist&quot;<br>}</pre>
+                                            <pre>{<br>    &quot;ValidationErrors&quot;: [<br>        {<br>            &quot;ParameterName&quot;: &quot;apikey&quot;,<br>            &quot;Message&quot;: &quot;ApiKey invalid&quot;<br>        }<br>    ]<br>}</pre>
                                     </div>
                                 </div>
                             </div>
@@ -515,11 +392,11 @@
                         </table>
                     </td>
                 <tr>
-                <tr class="test-FAILURE">
+                <tr class="test-SKIPPED">
                     <td width="50" class="step-icon">
-                        <a name="1-3"/>
+                        <a name="0-3"/>
                             <span style="margin-left: 40px; margin-right: 5px;"
-                                  class="nested-group-icon"><i class='fa fa-times-circle failure-icon ' title='FAILURE'></i></span>
+                                  class="nested-group-icon"><i class='fa fa-fast-forward skipped-icon ' title='SKIPPED'></i></span>
                     </td>
                     <td>
                         <div class="step-description">
@@ -530,10 +407,102 @@
                             </span>
                         </div>
                     </td>
-                    <td width="100"><span class="nested-group-step">FAILURE</span></td>
-                    <td width="100"><span class="nested-group-step">0.09s</span></td>
+                    <td width="100"><span class="nested-group-step">SKIPPED</span></td>
+                    <td width="100"><span class="nested-group-step">0s</span></td>
                 </tr>
-                    <tr class="test-FAILURE">
+                <tr class="test-SKIPPED">
+                    <td width="50" class="step-icon">
+                        <a name="0-4"/>
+                            <span style="margin-left: 40px; margin-right: 5px;"
+                                  class="nested-group-icon"><i class='fa fa-fast-forward skipped-icon ' title='SKIPPED'></i></span>
+                    </td>
+                    <td>
+                        <div class="step-description">
+                                <span class="nested-group-step">
+                                I can get the search results using sessionid
+                            </span>
+                            <span class="evidence">
+                            </span>
+                        </div>
+                    </td>
+                    <td width="100"><span class="nested-group-step">SKIPPED</span></td>
+                    <td width="100"><span class="nested-group-step">0s</span></td>
+                </tr>
+                <tr class="test-SKIPPED">
+                    <td width="50" class="step-icon">
+                        <a name="0-5"/>
+                            <span style="margin-left: 40px; margin-right: 5px;"
+                                  class="nested-group-icon"><i class='fa fa-fast-forward skipped-icon ' title='SKIPPED'></i></span>
+                    </td>
+                    <td>
+                        <div class="step-description">
+                                <span class="nested-group-step">
+                                Then I should get status code 200
+                            </span>
+                            <span class="evidence">
+                            </span>
+                        </div>
+                    </td>
+                    <td width="100"><span class="nested-group-step">SKIPPED</span></td>
+                    <td width="100"><span class="nested-group-step">0s</span></td>
+                </tr>
+
+                        </table>
+                    </td>
+                <tr>
+                <tr class="test-ERROR">
+                    <td width="50" class="step-icon">
+                        <a name="1"/>
+                            <a href="javaScript:void(0)" onClick="toggleDiv('stepSection1')"
+                               style="display:block">
+                                <i class="fa fa-plus-square-o imgstepSection1 error-icon"
+                                   style="margin-left: 20px; float:left;  padding-right:5px"></i>
+                            </a>
+                    </td>
+                    <td>
+                        <div class="step-description">
+                            <a href="javaScript:void(0)" onClick="toggleDiv('stepSection1')"
+                               style="display:block;">
+                                <span class="top-level-step">
+                                Verify that user can poll session paramterized
+                            </span>
+                            </a>
+                            <span class="evidence">
+                            </span>
+                        </div>
+                    </td>
+                    <td width="100"><span class="top-level-step">ERROR</span></td>
+                    <td width="100"><span class="top-level-step">3.77s</span></td>
+                </tr>
+                <tr>
+                    <td colspan="5">
+                        <table id="stepSection1" style="display:none; width:100%">
+
+                <tr class="test-ERROR">
+                    <td width="50" class="step-icon">
+                        <a name="1-2"/>
+                            <a href="javaScript:void(0)" onClick="toggleDiv('stepSection1-2')"
+                               style="display:block">
+                                <i class="fa fa-plus-square-o imgstepSection1-2 error-icon"
+                                   style="margin-left: 40px; float:left;  padding-right:5px"></i>
+                            </a>
+                    </td>
+                    <td>
+                        <div class="step-description">
+                            <a href="javaScript:void(0)" onClick="toggleDiv('stepSection1-2')"
+                               style="display:block;">
+                                <span class="nested-step">
+                                I try to search skyscanner with MEL-sky origin SYD-sky destination 2019-12-21 inbounddate 2019-12-02 outbounddate  business cabinclass 2 adults
+                            </span>
+                            </a>
+                            <span class="evidence">
+                            </span>
+                        </div>
+                    </td>
+                    <td width="100"><span class="nested-step">ERROR</span></td>
+                    <td width="100"><span class="nested-step">3.77s</span></td>
+                </tr>
+                    <tr class="test-ERROR">
                         <td width="40">&nbsp</td>
                         <td width="%" colspan="3" class="error-message-cell">
 
@@ -542,7 +511,7 @@
         <div class="table">
             <div class="row">
                 <div class="col-sm-10" style="padding-left:1.5em; padding-top:0.5em; padding-bottom:0.5em;">
-                    <span class="error-message error-message-title">java.lang.AssertionError: 1 expectation failed.<br>Expected status code &lt;200&gt; but was &lt;404&gt;.<br></span>
+                    <span class="error-message error-message-title">java.lang.NullPointerException</span>
                 </div>
                 <div class="col-sm-2">
                     <a class="btn btn-warning details-button" data-toggle="collapse" href="#stacktraceModal-8""
@@ -558,11 +527,11 @@
         <div class="collapse multi-collapse" id="stacktraceModal-8">
             <div class="card">
                 <div class="card-header">
-                    <h4>java.lang.AssertionError </h4>
+                    <h4>java.lang.NullPointerException </h4>
                 </div>
                 <div class="card-body">
                     <div>
-                        <pre>io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:656)<br />io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:125)<br />io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:133)<br />io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:119)<br />steps.SkyScannerSteps.searchIsExecutedSuccesfully(SkyScannerSteps.java:26)<br />com.test.rest.api.SerenityTest_SkyScanner.verifyThatUserCanPollSession_paramterized(SerenityTest_SkyScanner.java:61)<br /></pre>
+                        <pre>steps.SkyScannerSteps.postTwoLocations(SkyScannerSteps.java:29)<br />com.test.rest.api.SerenityTest_SkyScanner.verifyThatUserCanPollSession_paramterized(SerenityTest_SkyScanner.java:59)<br /></pre>
                     </div>
 
                 </div>
@@ -571,14 +540,120 @@
     </div>
                         </td>
                     </tr>
+                <tr>
+                    <td colspan="5">
+                        <table id="stepSection1-2" style="display:none; width:100%">
+
+                <tr class="test-SUCCESS">
+                    <td width="50" class="step-icon">
+                        <a name="1-2-2"/>
+                            <span style="margin-left: 60px; margin-right: 5px;"
+                                  class="nested-group-icon"><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></span>
+                    </td>
+                    <td>
+                        <div class="step-description">
+                                <span class="nested-group-step">
+                                POST https://skyscanner-skyscanner-flight-search-v1.p.rapidapi.com/apiservices/pricing/v1.0
+                            </span>
+                            <span class="evidence">
+                                    <span class="piece-of-evidence">
+                        <span>
+                    <button type="button" class="btn btn-success btn-sm" data-toggle="collapse"
+                            data-target="#restModal-REST-9">
+                        REST Query
+                    </button>
+                </span>
+                        <!-- Modal -->
+                        <div class="rest-query-details">
+                            <div class="collapse multi-collapse" id="restModal-REST-9">
+                                <div class="card">
+                                    <div class="card-body">
+                                        <h4>Response</h4>
+                                            <p>Status code: 403</p>
+                                            <p>Content Type: application/x-www-form-urlencoded</p>
+                                            <h4>Request Headers</h4>
+                                            <pre>x-rapidapi-host=skyscanner-skyscanner-flight-search-v1.p.rapidapi.com<br>x-rapidapi-key=1cf93091b1mshe1509d08adb1a40p13260ajsn8ef9df1068da<br>Accept=*/*<br>Content-Type=application/x-www-form-urlencoded; charset=UTF-8</pre>
+                                            <h4>Response Headers</h4>
+                                            <pre>Cache-Control: private<br>Content-Type: application/json<br>Date: Mon, 25 Nov 2019 02:37:21 GMT<br>Server: RapidAPI-1.0.32<br>X-RapidAPI-Region: AWS - ap-southeast-2<br>X-RapidAPI-Version: 1.0.32<br>Content-Length: 76<br>Connection: keep-alive</pre>
+                                        <h4>Response Body</h4>
+                                            <pre>{<br>    &quot;ValidationErrors&quot;: [<br>        {<br>            &quot;ParameterName&quot;: &quot;apikey&quot;,<br>            &quot;Message&quot;: &quot;ApiKey invalid&quot;<br>        }<br>    ]<br>}</pre>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                    </span>
+                            </span>
+                        </div>
+                    </td>
+                    <td width="100"><span class="nested-group-step">SUCCESS</span></td>
+                    <td width="100"><span class="nested-group-step">0s</span></td>
+                </tr>
 
                         </table>
                     </td>
                 <tr>
-                <tr class="test-FAILURE">
+                <tr class="test-SKIPPED">
+                    <td width="50" class="step-icon">
+                        <a name="1-3"/>
+                            <span style="margin-left: 40px; margin-right: 5px;"
+                                  class="nested-group-icon"><i class='fa fa-fast-forward skipped-icon ' title='SKIPPED'></i></span>
+                    </td>
+                    <td>
+                        <div class="step-description">
+                                <span class="nested-group-step">
+                                Then I should get status code 200
+                            </span>
+                            <span class="evidence">
+                            </span>
+                        </div>
+                    </td>
+                    <td width="100"><span class="nested-group-step">SKIPPED</span></td>
+                    <td width="100"><span class="nested-group-step">0s</span></td>
+                </tr>
+                <tr class="test-SKIPPED">
+                    <td width="50" class="step-icon">
+                        <a name="1-4"/>
+                            <span style="margin-left: 40px; margin-right: 5px;"
+                                  class="nested-group-icon"><i class='fa fa-fast-forward skipped-icon ' title='SKIPPED'></i></span>
+                    </td>
+                    <td>
+                        <div class="step-description">
+                                <span class="nested-group-step">
+                                I can get the search results using sessionid
+                            </span>
+                            <span class="evidence">
+                            </span>
+                        </div>
+                    </td>
+                    <td width="100"><span class="nested-group-step">SKIPPED</span></td>
+                    <td width="100"><span class="nested-group-step">0s</span></td>
+                </tr>
+                <tr class="test-SKIPPED">
+                    <td width="50" class="step-icon">
+                        <a name="1-5"/>
+                            <span style="margin-left: 40px; margin-right: 5px;"
+                                  class="nested-group-icon"><i class='fa fa-fast-forward skipped-icon ' title='SKIPPED'></i></span>
+                    </td>
+                    <td>
+                        <div class="step-description">
+                                <span class="nested-group-step">
+                                Then I should get status code 200
+                            </span>
+                            <span class="evidence">
+                            </span>
+                        </div>
+                    </td>
+                    <td width="100"><span class="nested-group-step">SKIPPED</span></td>
+                    <td width="100"><span class="nested-group-step">0s</span></td>
+                </tr>
+
+                        </table>
+                    </td>
+                <tr>
+                <tr class="test-ERROR">
                         <td colspan="2"></td>
-                    <td width="100"><span class="top-level-step"><em>FAILURE</em></span></td>
-                    <td width="100"><span class="top-level-step"><em>966.21s</em></span></td>
+                    <td width="100"><span class="top-level-step"><em>ERROR</em></span></td>
+                    <td width="100"><span class="top-level-step"><em>7.72s</em></span></td>
                 </tr>
 
             </table>

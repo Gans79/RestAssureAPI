@@ -2,6 +2,7 @@ package com.test.rest.api;
 
 import net.serenitybdd.junit.runners.SerenityParameterizedRunner;
 import net.thucydides.core.annotations.Steps;
+import net.thucydides.core.annotations.WithTag;
 import net.thucydides.junit.annotations.TestData;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -53,6 +54,7 @@ public class SerenityTest_SkyScanner {
     SkyScannerSteps skyScannerSteps;
 
     @Test
+    @WithTag("feature:skyscanner")
     public void verifyThatUserCanPollSession_paramterized() {
         skyScannerSteps.postTwoLocations(originplace,destinationplace,outbounddate,
                 inbounddate, cabinclass,adults );

@@ -4,3 +4,6 @@ Business/CallHandler.class
 Business/DefaultKeys.class
 Business/CurrentWeather.class
 com/test/rest/api/SerenityTest_lat_long.class
+Business/SkyScannerSession.class
+steps/SkyScannerSteps.class
+com/test/rest/api/SerenityTest_SkyScanner.class

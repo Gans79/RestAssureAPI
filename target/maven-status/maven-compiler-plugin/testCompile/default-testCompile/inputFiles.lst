@@ -1,6 +1,9 @@
-/QE_API_CHALLENGE-master/src/test/java/Business/CallHandler.java
-/QE_API_CHALLENGE-master/src/test/java/Business/CurrentWeather.java
-/QE_API_CHALLENGE-master/src/test/java/com/test/rest/api/SerenityTest.java
-/QE_API_CHALLENGE-master/src/test/java/com/test/rest/api/SerenityTest_lat_long.java
-/QE_API_CHALLENGE-master/src/test/java/steps/GetCurrentWeatherSteps.java
-/QE_API_CHALLENGE-master/src/test/java/Business/DefaultKeys.java
+/Users/ganeshranganathan/RestassureAPI/src/test/java/Business/CallHandler.java
+/Users/ganeshranganathan/RestassureAPI/src/test/java/steps/GetCurrentWeatherSteps.java
+/Users/ganeshranganathan/RestassureAPI/src/test/java/steps/SkyScannerSteps.java
+/Users/ganeshranganathan/RestassureAPI/src/test/java/Business/DefaultKeys.java
+/Users/ganeshranganathan/RestassureAPI/src/test/java/Business/SkyScannerSession.java
+/Users/ganeshranganathan/RestassureAPI/src/test/java/com/test/rest/api/SerenityTest_lat_long.java
+/Users/ganeshranganathan/RestassureAPI/src/test/java/com/test/rest/api/SerenityTest_SkyScanner.java
+/Users/ganeshranganathan/RestassureAPI/src/test/java/Business/CurrentWeather.java
+/Users/ganeshranganathan/RestassureAPI/src/test/java/com/test/rest/api/SerenityTest.java
